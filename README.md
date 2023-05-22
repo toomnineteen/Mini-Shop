@@ -1,3 +1,3 @@
 # Mini-Shop
-Mini-Shop Use HTML, CSS, Javascript
+Mini-Shop Using HTML, CSS, Javascript
 DEMO : https://toomnineteen.github.io/Mini-Shop/
