@@ -1,25 +1,25 @@
 const product = [
     {
         id: 1,
-        image: '/img/img1.png',
+        image: 'https://www.freeiconspng.com/thumbs/iphone-x-pictures/apple-iphone-x-pictures-5.png',
         title: 'iphone',
         price: 45000,
     },
     {
         id: 2,
-        image: '/img/img2.png',
+        image: 'https://png.pngtree.com/png-clipart/20230419/original/pngtree-tablet-ipad-png-image_9068465.png',
         title: 'ipad',
         price: 35000,
     },
     {
         id: 3,
-        image: '/img/img3.jpg',
+        image: 'https://png.pngtree.com/png-clipart/20221219/original/pngtree-airpods-3rd-generation-wireless-headphones-png-image_8776920.png',
         title: 'Airpods',
         price: 5000,
     },
     {
         id: 4,
-        image: '/img/img4.png',
+        image: 'https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MP6V3ref_VW_PF+watch-40-alum-starlight-nc-se_VW_PF_WF_SI?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713',
         title: 'Apple watch',
         price: 10000,
     }
